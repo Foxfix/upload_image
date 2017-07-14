@@ -7,7 +7,7 @@
     python manage.py migrate
     python manage.py createsuperuser
 
-
+You can easily upload and delete pictures.
 This app have an api for uploaded files. 
 The frontend is written on AngularJS.
 
